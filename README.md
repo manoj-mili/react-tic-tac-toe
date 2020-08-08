@@ -1,4 +1,5 @@
-![Play Sample](https://github.com/manoj-mili/react-tic-tac-toe/blob/master/src/assets/play%20sample.gif)
+<img src="https://github.com/manoj-mili/react-tic-tac-toe/blob/master/src/assets/play%20sample.gif" width="400" height="900" />
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
